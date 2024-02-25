@@ -1,0 +1,41 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built files
+build/
+dist/
+
+# Ignore environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore log files
+*.log
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore TypeScript configuration file
+tsconfig.json
+
+# Ignore build configuration files
+webpack.config.js
+webpack.config.prod.js
+webpack.config.dev.js
+
+# Ignore package-lock files
+package-lock.json
+yarn.lock
+
+# Ignore test coverage directory
+coverage/
+
+# Ignore Mac-specific files
+.DS_Store

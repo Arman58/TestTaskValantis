@@ -1,0 +1,25 @@
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.product-name {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.product-brand {
+    font-size: 1em;
+    color: #777;
+}
+
+.product-price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #e44d26;
+}
+
